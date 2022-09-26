@@ -28,8 +28,8 @@ The challenge is to reproduce the QR code component design given and get it to l
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-soluti)
-- Live Site URL: [Add live site URL here](https://Ayomidejhay.github.io/QR-code)
+- Solution URL: [https://github.com/Ayomidejhay/QR-code.git](https://your-soluti)
+- Live Site URL: [https://Ayomidejhay.github.io/QR-code](https://Ayomidejhay.github.io/QR-code)
 
 ## My process
 
