@@ -28,7 +28,7 @@ The challenge is to reproduce the QR code component design given and get it to l
 
 ### Links
 
-- Solution URL: [https://github.com/Ayomidejhay/QR-code.git](https://your-soluti)
+- Solution URL: [https://github.com/Ayomidejhay/QR-code.git](https://github.com/Ayomidejhay/QR-code.git)
 - Live Site URL: [https://Ayomidejhay.github.io/QR-code](https://Ayomidejhay.github.io/QR-code)
 
 ## My process
